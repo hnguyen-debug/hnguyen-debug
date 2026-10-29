@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there! 👋 I'm Han
 
-<!--
-**hnguyen-debug/hnguyen-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I love exploring how technology works, building things and finding creative ways to solve problems.
 
-Here are some ideas to get you started:
+🌱 Always curious, eager to learn, open to new challenges and excited to keep growing!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Programming: Python, R, C, TypeScript, JavaScript, SQL
+
+Front-End: HTML, CSS
+
+Backend & APIs: FastAPI, Flask, REST APIs, WebSockets
+
+DevOps & Testing: Docker, Git, GitHub Actions (CI/CD), pytest
+
+Cloud & Platforms: AWS (EC2, ECS, S3, IoT Core)
+
+Data & Messaging: PostgreSQL, MySQL, MQTT
+
+AI & Data Science: TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn, Transformers, BERT
+
+Business Intelligence: Power BI, Power Query, DAX, Semantic Modelling, Dashboard Development, Dimensional Modelling
+
+DevOps & Testing: Docker, Git, GitHub Actions (CI/CD), pytest
+
+Cloud: AWS (EC2, ECS, S3, IoT Core)
+
+Databases & Messaging: PostgreSQL, MySQL, MQTT
+
+AI & Data Science: TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn, Transformers, BERT
+
+Business Intelligence: Power BI, Power Query, DAX, Semantic Modelling, Dashboard Development, Dimensional Modelling
+
+✨ I believe the best way to learn is to stay curious, build things and never stop improving.
